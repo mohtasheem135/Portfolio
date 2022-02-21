@@ -1,0 +1,97 @@
+.project-head-container{
+    /* border: 2px solid peru; */
+}
+
+.project-head-text{
+    /* border: 2px solid red; */
+    font-family: 'Nunito', sans-serif;
+    padding: 0px 42px;
+    cursor: default;
+}
+
+.project-list-container{
+    /* border: 2px solid black; */
+}
+
+.project-list{
+    /* border: 2px solid black; */
+    display: flex;
+    padding: 6px 12px;
+}
+
+.project-img-container{
+    /* border: 2px solid blue; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* .project-img-container-1{
+    border: 2px solid purple;
+} */
+
+.project-img{
+    width: 85%;
+    /* border: 2px solid pink; */
+    
+}
+
+.project-details{
+    /* border: 2px solid orange; */
+    width: 430%;
+}
+
+.project-name-head{
+    font-family: 'Nunito', sans-serif;
+    padding: 0px 19px;
+}
+
+.project-details-para{
+    /* border: 2px solid green; */
+    font-family: 'Ubuntu', sans-serif;
+    padding: 12px 20px;
+    cursor: default;
+}
+
+.project-details-languages{
+    font-family: 'Nunito', sans-serif;
+    padding: 0px 32px;
+    cursor: default;
+}
+
+.project-details-date{
+    font-family: 'Nunito', sans-serif;
+    padding: 0px 32px;
+    cursor: default;
+}
+
+.project-view-link{
+    display: flex;
+    padding: 0px 32px;
+    /* border: 2px solid black; */
+}
+
+.project-view-link a{
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+    color: black;
+}
+
+.project-view-link a:hover{
+    color: blue;
+}
+
+.project-details-view-link{
+    /* border: 2px solid red; */
+    padding: 12px;
+}
+
+.project-details-ul{
+    padding: 0px 60px;
+    cursor: default;
+}
+
+.project-details-lists{
+    font-family: 'Ubuntu', sans-serif;
+    padding: 5px 0px;
+    cursor: default;
+}

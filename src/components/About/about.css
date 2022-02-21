@@ -1,0 +1,66 @@
+.about-container{
+    /* border: 2px solid black; */
+}
+
+.about-head-text{
+    /* border: 2px solid red; */
+    font-family: 'Nunito', sans-serif;
+    cursor: default;
+    
+}
+
+.about-head-text h2{
+    padding: 0pc 31pc;
+}
+
+.about-profile{
+    /* border: 2px solid green; */
+    display: flex;
+}
+
+.about-text{
+    /* border: 2px solid purple; */
+    padding: 0px 42px;
+    cursor: default;
+}
+
+.about-text-para{
+    font-family: 'Ubuntu', sans-serif;
+    /* border: 2px solid grey; */
+    padding: 16px 18px;
+}
+
+.profile-img-container{
+    /* border: 2px solid orange; */
+    display: flex;
+    justify-content: flex-end;
+    width: 180%;
+}
+
+.profile-img-container img{
+    width: 70%;
+    height: 20pc;
+    /* border: 2px solid blue; */
+}
+
+/* Experience */
+
+.about-experience{
+    /* border: 2px solid black; */
+    font-family: 'Nunito', sans-serif;
+    padding: 0px 18px;
+}
+
+.about-experience-list{
+    /* border: 2px solid red; */
+}
+
+.about-experience-list ul li{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.about-experience-list-para{
+    font-family: 'Nunito', sans-serif;
+    padding: 0px 24px;
+    font-weight: 200;
+}

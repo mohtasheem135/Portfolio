@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito:wght@300&family=Ubuntu:wght@300&display=swap');
+
+.top-container{
+    /* border: 2px solid black; */
+    display: flex;
+}
+
+
+.top-title{
+    /* border: 2px solid red; */
+    width: 100%;
+}
+
+.head-text{
+    /* border: 2px solid blue; */
+    display: flex;
+    justify-content: center;
+    font-family: 'Nunito', sans-serif;
+    padding: 12px 12px;
+    cursor: default;
+}
+
+.top-short-intro{
+    /* border: 2px solid pink; */
+}
+
+.top-short-intro p {
+    /* border: 2px solid purple; */
+    font-family: 'Ubuntu', sans-serif;
+    padding: 9px 40px;
+    cursor: default;
+}
+
+.social-link-box{
+    /* border: 2px solid orange; */
+    display: flex;
+    justify-content: space-evenly;
+    padding: 12px;
+}
+
+.social-box{
+    /* border: 2px solid black; */
+    padding: 12px;
+}
+
+.social-box a{
+    color: black;
+}
+
+.top-profile-img{
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: flex-end;
+    width: 80%;
+    padding: 20px 10px;
+}
+
+.profile-img{
+    width: 70%;
+    margin-right: 80px;
+    /* border: 2px solid orangered; */
+}
+
+/* Second Container */
+
+.second-container{
+    /* border: 2px solid black; */
+}
+
+.second-container-head{
+    /* border: 2px solid red; */
+    padding: 12px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.second-container-head h2{
+    cursor: default;
+    /* margin-left: 43px; */
+    /* border: 2px solid orange; */
+    padding: 6px 42px;
+}
+
+.second-container-text{
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.second-container-text p{
+    font-family: 'Ubuntu', sans-serif;
+    /* border: 2px solid orange; */
+    width: 90%;
+    padding: 22px 42px;
+}
+
+.tool-sets{
+    /* border: 2px solid blue; */
+    width: 70%;
+    padding: 20px;
+}
+
+.too-icons{
+    margin-left: 20px;
+}
+
+.icon-img{
+    width: 10%;
+    /* border: 2px solid rgb(255, 0, 0); */
+    padding: 12px;
+    margin-left: 20px;
+}
